@@ -1,10 +1,10 @@
 <?php
     require_once "db.php";
-    
+
     $lang = $_GET["lang"];
     $sql = "SELECT a.*
             FROM about as a
-            INNER JOIN language as l ON l.id_lang = a.id_lang 
+            INNER JOIN language as l ON l.id_lang = a.id_lang
             WHERE l.lang = '$lang' and a.status = 1";
 
     $stmt = $conn->prepare($sql);
@@ -22,5 +22,5 @@
             <p><?php echo $description_about; ?></p>
 
         </div><!--//content-->
-    </div><!--//section-inner-->                 
+    </div><!--//section-inner-->
 </section><!--//section-->

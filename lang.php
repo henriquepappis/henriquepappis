@@ -6,7 +6,7 @@
 	if($_GET["lang"] == "en"){
 		
 		$titleAbout = "About Me";
-		$titleJob = "Web Developer";
+		$titleJob = "PHP Developer";
 		$titleInformation = "Basic Information";
 		$titleWork = "Work Experience";
 		$titleVolunteer = "Volunteer";
@@ -40,7 +40,7 @@
 
 	}elseif ($_GET["lang"] == "pt") {
 		$titleAbout = "Sobre";
-		$titleJob = "Desenvolvedor Web";
+		$titleJob = "Desenvolvedor PHP Pleno";
 		$titleInformation = "Informações";
 		$titleWork = "Experiência";
 		$titleVolunteer = "Voluntário";
@@ -58,7 +58,7 @@
 		$idiom2 = "Inglês";
 		$idiom2Level = "Avançado";
 		$idiom3 = "Espanhol";
-		$idiom3Level = "Intermediário";
+		$idiom3Level = "Básico";
 
 		$titleContact = "Contato";
 		$titleName = "Nome";

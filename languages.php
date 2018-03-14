@@ -21,7 +21,7 @@
                 <div class="item">
                     <h3 class="level-title"><?php echo $idiom3; ?><span class="level-label" data-toggle="tooltip" data-placement="left" data-animation="true"><?php echo $idiom3Level; ?></span></h3>
                     <div class="level-bar">
-                        <div class="level-bar-inner" data-level="60%">
+                        <div class="level-bar-inner" data-level="25%">
                         </div>
                     </div><!--//level-bar-->
                 </div><!--//item-->
