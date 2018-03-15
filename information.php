@@ -7,7 +7,7 @@
                 <li><i class="fa fa-mobile"></i><span class="sr-only">Phone:</span>+55 51 9760-0535</li>
                 <li><i class="fa fa-skype"></i><span class="sr-only">Skype:</span>henriquepappis</li>
                 <li><i class="fa fa-envelope-o"></i><span class="sr-only">Email:</span><a href="#">falecom@henriquepappis.com</a></li>
-                <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a href="#">http://www.henriquepappis.com</a></li>
+                <!-- <li><i class="fa fa-link"></i><span class="sr-only">Website:</span><a href="#">http://www.henriquepappis.com</a></li> -->
             </ul>
         </div><!--//content-->
     </div><!--//section-inner-->
