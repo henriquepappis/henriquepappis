@@ -52,4 +52,3 @@
                         </div><!--//content-->  
                     </div><!--//section-inner-->                 
                 </aside><!--//section-->
-<?php $conn->close();?>
