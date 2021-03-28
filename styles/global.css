@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+
+.content {
+    margin: 0 auto;
+    /* background: url('https://image.freepik.com/free-photo/close-up-image-programer-working-his-desk-office_1098-18707.jpg') no-repeat center center fixed; */
+    /* background: url('https://miro.medium.com/max/13082/1*5FWohaERnEU4L0YL-BXBHw.jpeg') no-repeat center center fixed; */
+    background: url('https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nJTIwc2V0dXB8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&w=1000&q=80') no-repeat center center fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    box-shadow:inset 0 0 0 2000px rgba(60, 60, 60, 0.4);
+    font-family: "Roboto Mono";
+    position: relative;
+    text-align: center;
+}
+
+.presentation {
+    position: absolute;
+    bottom: 10%;
+    text-align: left !important;
+    margin-left: 21.5%;
+    color: white;
+}
+
+.bio {
+    color: white;
+    background-color: #5680e9;
+}
+
+.intro {
+    background-color: 'white' !important;
+}
+
+a.social{
+    padding: 0 23px 0 23px;
+    color: white;
+}
+
+.photo {
+    margin-top: '25px';
+}
+
+.name {
+    font-size: 4em;
+    font-weight: 600;
+    color: white;
+}
+
+.about {
+    background-color: #EEF0FB;
+    color: "white";
+    text-align: left;
+}
+
+.about-description {
+    line-height: 2.2;
+    text-align: justify;
+}
+
+.experience-box {
+    background-color: white;
+    text-align: left;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.title {
+    margin: 50px 0 50px 0;
+}
+
+.formation-description h6 {
+    line-height: 1.4;
+    text-align: justify;
+}
+
+.experience-description h6 {
+    line-height: 1.4;
+    letter-spacing: normal;
+}
+
+div h6 {
+    line-height: 1.6;
+}
+
+.skills {
+    text-align: right;
+    color: white;
+}
+
+.skill {
+    width: 100%;
+    background-color: #ddd;
+}
+
+Button.tag:disabled {
+    color: #5680e9;
+    font-weight: 700;
+    margin: 0 4px 4px 0;
+}
+
+.footer {
+    background-color: #5680e9;
+    color: white;
+    height: 50px;
+    margin: 0;
+    bottom: 0;
+}
+
+Button.download{
+    background-color: white;
+    color: #5680e9;
+}
