@@ -1,2 +1,5 @@
-db.php
-sendMail.php
+.DS_Store
+node_modules/
+public/.DS_Store
+.next/
+package-lock.json
