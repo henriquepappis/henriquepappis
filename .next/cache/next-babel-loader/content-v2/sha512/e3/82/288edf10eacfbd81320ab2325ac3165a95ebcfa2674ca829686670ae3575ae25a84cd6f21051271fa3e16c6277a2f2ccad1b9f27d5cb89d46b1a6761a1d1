@@ -1,0 +1,1 @@
+{"ast":null,"code":"import App from 'next/app';","map":{"version":3,"sources":["/Users/henriquepappis/projetos/henriquepappis.com/pages/_app.js"],"names":["App"],"mappings":"AAAA,OAAOA,GAAP,MAAgB,UAAhB","sourcesContent":["import App from 'next/app';"]},"metadata":{},"sourceType":"module"}
