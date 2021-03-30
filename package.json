@@ -2,6 +2,7 @@
   "name": "henriquepappis.com.br",
   "version": "1.0.0",
   "description": "Henrique Pappis Curriculo",
+  "homepage": "https://github.com/henriquepappis/henriquepappis",
   "main": "index.js",
   "scripts": {
     "dev": "next",
