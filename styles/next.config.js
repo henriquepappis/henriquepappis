@@ -1,3 +1,3 @@
 module.exports = {
-    experimental: {css: true}
+  experimental: { css: true },
 };
