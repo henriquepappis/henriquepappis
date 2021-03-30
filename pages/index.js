@@ -7,6 +7,8 @@ import Footer from '../components/Footer';
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 
+let x;
+
 function App() {
     return (
         <div className="content">
