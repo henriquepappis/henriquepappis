@@ -1,2 +1,7 @@
-- name: Run ESLint
-  uses: stefanoeb/eslint-action@1.0.2
+name: CI
+on: push
+jobs:
+  build:
+    steps:
+    - name: Run ESLint
+      run: eslint .
