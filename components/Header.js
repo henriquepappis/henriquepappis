@@ -43,13 +43,19 @@ const Header = () => (
                 <Row>
                     <Col md="12">
                         <Link href="http://github.com/henriquepappis">
-                            <a className="social" target="_blank" style={{ color: 'inherit', textDecoration: 'inherit' }}><FontAwesomeIcon className="fa-lg" icon={faGithubAlt} /></a>
+                            <a className="social" target="_blank" style={{ color: 'inherit', textDecoration: 'inherit' }}>
+                                <FontAwesomeIcon className="fa-lg" icon={faGithubAlt} />
+                            </a>
                         </Link>
                         <Link href="http://linkedin.com/in/henriquepappis">
-                            <a className="social" target="_blank" style={{ color: 'inherit', textDecoration: 'inherit' }}><FontAwesomeIcon className="fa-lg" icon={faLinkedinIn} /></a>
+                            <a className="social" target="_blank" style={{ color: 'inherit', textDecoration: 'inherit' }}>
+                                <FontAwesomeIcon className="fa-lg" icon={faLinkedinIn} />
+                            </a>
                         </Link>
                         <Link href="skype:live:henriquepappis?call">
-                            <a className="social" target="_blank"><FontAwesomeIcon className="fa-lg" icon={faSkype} /></a>
+                            <a className="social" target="_blank" style={{ color: 'inherit', textDecoration: 'inherit' }}>
+                                <FontAwesomeIcon className="fa-lg" icon={faSkype} />
+                            </a>
                         </Link>
                     </Col>
                 </Row>
