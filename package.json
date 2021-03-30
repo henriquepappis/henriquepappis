@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "next",
     "build": "next build",
-    "start": "yarn install && next build && next start"
+    "start": "yarn install && next build && next start",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix --ext .js,.jsx ."
   },
   "author": "",
   "license": "ISC",
