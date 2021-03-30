@@ -5,12 +5,17 @@ import { faGithubAlt, faLinkedinIn, faSkype } from "@fortawesome/free-brands-svg
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
+const nome = "Henrique Pappis";
+
 const Header = () => (
   <Row>
     <Col md="9">
       <p className="presentation">
         <h3>OLÁ! EU SOU</h3>
-        <h1 className="name">Henrique Pappis.</h1>
+        <h1 className="name">
+          {nome}
+          .
+        </h1>
         <br />
         <h4>Desenvolvedor de Sofware.</h4>
       </p>
